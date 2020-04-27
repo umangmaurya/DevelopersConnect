@@ -1,5 +1,7 @@
 node_modules/
 build/
+config/production.json
+config/default.json
 src/**/*.css
 src/**/*.css
 package-lock.json
