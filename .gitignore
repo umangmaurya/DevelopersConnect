@@ -1,4 +1,7 @@
 node_modules/
+client/node_modules/
+client/package-lock.json
+client/yarn.lock
 build/
 config/production.json
 config/default.json
